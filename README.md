@@ -28,6 +28,7 @@ These features are in no particular order and are just a small over view of the 
 - [ ] Renderables:
   - [ ] Instanced Renderable
   - [ ] Cubemap
+  - [ ] Skinned Mesh Renderable
   
 - [ ] Lights
   - [ ] Spot Light
